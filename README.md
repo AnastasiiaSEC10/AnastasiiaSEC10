@@ -8,12 +8,23 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif?cid=ecf05e4730cctilryiivayentw61je4dgub6slgatpcy48b8&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="500" height="500"/>
 </div>
 
 
+<div align="left">
+# About Me 🌱
+
+- 👋 Hi there! I’m [Your Name], and I’ve just started my journey into the world of coding and programming.
+- 🌟 I’m currently learning the basics of [Github, Python, HTML/CSS, JavaScript, Markdown] and exploring how technology works.
+- 🚀 My goal is to grow as a developer, contribute to open-source projects, and build cool things!
+- 📫 How to reach me: [seckoanastasia0@gmail.com].
+
+Feel free to reach out if you’d like to collaborate, share advice, or just chat about coding! 😊
+</div>
 
 <!--
 **AnastasiiaSEC10/AnastasiiaSEC10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
