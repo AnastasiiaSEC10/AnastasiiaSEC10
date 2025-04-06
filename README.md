@@ -10,10 +10,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif?cid=ecf05e4730cctilryiivayentw61je4dgub6slgatpcy48b8&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="500" height="500"/>
-</div>
-
 
 <div align="left">
 # About Me 🌱
